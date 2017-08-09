@@ -36,7 +36,7 @@ w =	write	(write to a file or directory)
 x	= execute	(execute a file or recurse a directory tree)
 
 # Learning links
-[Chmod Calculator](https:chmodcommand.com)
+[Chmod Calculator](https://chmodcommand.com)
 [Chmod Wikipedia](https://en.wikipedia.org/wiki/Chmod)
 [Chmod Man Pages](https://ss64.com/bash/chmod.html)
 [Chmod PHP Pages](https://ss64.com/bash/chmod.html)
